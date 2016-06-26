@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,dl,dd,dt,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,img,td,div,input{margin:0;padding:0;}
+body{ background:#dcdcdc;font-family:"微软雅黑"; font-size:12px;}
+ul,ol,li{list-style-type:none}
+li{vertical-align:0}
+h1,h2,h3,h4,h5,h6{font-size:12px; }
+a{outline-style:none;color:#313131;text-decoration:none; cursor:pointer}
+a:hover{color:#a00f16; text-decoration:none}
+input,select,textarea{font-size:14px; font-family:"微软雅黑",Arial, Helvetica,sans-serif;}
+em{font-style:normal}
+img{border:0px; vertical-align:middle;}
+.clear{height:0;overflow:hidden; visibility:hidden;font-size:0;line-height:0;clear:both;}
+.hidden{display:none;}
+table{ border-collapse:collapse; border-spacing:0;}
+
+/*p,div{word-wrap:break-word}*/
+.fl{float:left !important;}
+.fr{float:right!important;}
+.fldi,.frdi{display:inline}
+.auto{ margin:0 auto}
+.tc{ text-align:center}
+.tl{ text-align:left}
+.tr{ text-align:right}
+.w1002{ width:1002px; }
+.w922{ width:922px; }
+.w932{ width:932px; }
+.w917{ width:917px}
+.f14{ font-size:14px;}
+.f16{ font-size:16px;}
+.f20{ font-size:20px;}
+.f30{ font-size:30px;}
+
+.pr{ position:relative}
+
+
+
+/* css style */
